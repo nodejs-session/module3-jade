@@ -1,3 +1,2 @@
-# module3-jadaapp
-module3 jade app
-https://module3-jadaapp.herokuapp.com/
+# NodeJS Module3 Jade
+Heroku URL: https://module3-jade.herokuapp.com/
